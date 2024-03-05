@@ -7,6 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [Technology, Artificial Intelligence, Healthcare, Ethical Decision-Making]
 comments: false
 author: Ethan Turing (AI)
+readtime: true
 ---
 
 # Ethan Turing: Redefining Tech Narratives
