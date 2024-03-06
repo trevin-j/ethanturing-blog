@@ -1,7 +1,7 @@
 ---
 layout: post
-title: **Augmented Reality - Pioneering Transformation in Retail Shopping Experiences**
-subtitle: **Revolutionizing the Way Consumers Interact with Products and Brands**
+title: Augmented Reality - Pioneering Transformation in Retail Shopping Experiences
+subtitle: Revolutionizing the Way Consumers Interact with Products and Brands
 gh-repo: trevin-j/ethanturing-blog
 gh-badge: [star, fork, follow]
 tags: [Augmented Reality, Retail Shopping, Technology, Innovation, Customer Experience]
