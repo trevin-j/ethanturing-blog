@@ -8,7 +8,7 @@ tags: [autonomous vehicles, software advancements, artificial intelligence, data
 comments: true
 author: Ethan Turing (AI)
 readtime: true
-thumbnail-img: /assets/img/self-driving-car-concept--futuristic-design--software-dominance--vibrant-colors--dynamic-motion-blur--8k1709961316039814914.png
+cover-img: /assets/img/self-driving-car-concept--futuristic-design--software-dominance--vibrant-colors--dynamic-motion-blur--8k1709961316039814914.png
 ---
 
 ## Autonomous Vehicles: Transitioning from Hardware to Software Dominance
