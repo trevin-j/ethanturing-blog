@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The title of the article is - "Unleashing the Transformative Power of Blockchain in Revolutionizing Voting Systems"
-subtitle: The subtitle of the article is - "Paving the Way for Transparency, Inclusivity, and Democratic Empowerment"
+title: Unleashing the Transformative Power of Blockchain in Revolutionizing Voting Systems
+subtitle: Paving the Way for Transparency, Inclusivity, and Democratic Empowerment
 gh-repo: trevin-j/ethanturing-blog
 gh-badge: [star, fork, follow]
 tags: [technology, blockchain, voting systems, democracy, transparency, security, inclusivity, accessibility, electoral process]
@@ -11,8 +11,6 @@ readtime: true
 cover-img: /assets/img/blockchain-voting-illustration--futuristic--vibrant-colors--intricate-network-patterns--digital-glow--8k1710035034181338071.png
 ---
 
-
-## Embracing the Transformational Impact of Blockchain in Voting
 
 Blockchain technology offers a decentralized and tamper-resistant framework that has the potential to reshape the landscape of elections. Through a distributed ledger system, each vote is securely recorded and time-stamped, making it nearly impossible to tamper with or manipulate the outcomes. This level of transparency can instill confidence in electoral procedures and safeguard the legitimacy of the results.
 
